@@ -15,7 +15,7 @@
   "license": "ISC",
   "devDependencies": {
     "loot-table-advanced": "^1.4.6",
-    "nodeplotlib": "^1.1.2",
+    "nodeplotlib": "^1.1.2"
   },
   "bugs": {
     "url": "https://github.com/nxl5154/loot_tables/issues"
