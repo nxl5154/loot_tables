@@ -298,13 +298,10 @@ import {
         }
         avg_kc = total_kc/sims
         
-        const kc_list_sorted = kc_list.sort(function(a,b){return(a-b)})
-  
         const data = [
           {
             x: kc_list,
-            y: [...Array(10000).keys()],
-            type: 'scatter',
+            type: 'histogram',
           },
         ]
         
