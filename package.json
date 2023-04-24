@@ -1,0 +1,24 @@
+{
+  "name": "loot_tables",
+  "version": "1.0.0",
+  "description": "Loot table completion simulator",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nxl5154/loot_tables.git"
+  },
+  "author": "Nicholas Lucas",
+  "license": "ISC",
+  "devDependencies": {
+    "loot-table-advanced": "^1.4.6",
+    "nodeplotlib": "^1.1.2",
+  },
+  "bugs": {
+    "url": "https://github.com/nxl5154/loot_tables/issues"
+  },
+  "homepage": "https://github.com/nxl5154/loot_tables#readme"
+}
