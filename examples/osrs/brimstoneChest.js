@@ -102,7 +102,6 @@ function main() {
         kc_list.push(temp_kc)
     }
     avg_kc = total_kc/sims
-    let kc_list_sorted = kc_list.sort(function(a,b){return(a-b)})
 
     const data = [
         {
